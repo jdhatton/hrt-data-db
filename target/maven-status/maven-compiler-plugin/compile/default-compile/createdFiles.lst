@@ -1,0 +1,13 @@
+com/hrt/data/db/enums/SchoolType.class
+com/hrt/data/db/beans/Classroom.class
+com/hrt/data/db/beans/ClassroomStudent.class
+com/hrt/data/db/beans/Feedback.class
+com/hrt/data/db/beans/Student.class
+com/hrt/data/db/beans/User.class
+com/hrt/data/db/beans/ZipCode.class
+com/hrt/data/db/beans/ClassroomBehavior.class
+com/hrt/data/db/beans/StudentBehavior.class
+com/hrt/data/db/beans/District.class
+com/hrt/data/db/beans/Invitation.class
+com/hrt/data/db/beans/ClassroomParent.class
+com/hrt/data/db/beans/School.class
